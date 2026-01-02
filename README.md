@@ -1,2 +1,2 @@
-Food Munch is a responsive restaurant landing page Food Munch is a responsive restaurant landing page built using HTML5, CSS3, and Bootstrap.
-This project showcases a modern and user-friendly This project showcases a modern and user-friendly interface designed to present a restaurant’s menu, features, and contact information in a visually appealing format. It’s ideal as a portfolio piece for frontend development roles.
+Food Munch is a responsive restaurant landing page built using HTML5, CSS3, and Bootstrap.
+This project showcases a modern and user-friendly interface designed to present a restaurant’s menu, features, and contact information in a visually appealing format. It’s ideal as a portfolio piece for frontend development roles.
